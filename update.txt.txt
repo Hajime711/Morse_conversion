@@ -1,0 +1,5 @@
+updated morse binary tree manually with symbol values (in morsebt file)
+updated morseencode function to stop ignoring symbols (in morsebt file)
+updated main function to include a special symbol text as well (in main file)
+made two more test files with three cases for encoding and decoding of special symbols in each file
+(test_encode_special_symbols and test_decode_special_symbols file are made)
